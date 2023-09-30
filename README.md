@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Daniel Behar</h1>
+<h1 align="center">Hello 👋, I'm Daniel</h1>
 <h3 align="center">An enthusiast in Data Science, engineering and collaboration from Guatemala</h3>
 
 - 🔭 I’m currently working on a [car plates detector](https://github.com/dan-behar/Computer_Vision/tree/main/Proyecto1)
